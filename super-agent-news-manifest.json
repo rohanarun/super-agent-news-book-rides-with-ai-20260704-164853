@@ -1,0 +1,60 @@
+{
+  "citations": [
+    "[consumerreports.org](https://www.consumerreports.org/cars/car-pricing-negotiation/different-prices-for-the-same-ride-uber-lyft-a1132811656/)",
+    "[fortune.com](https://fortune.com/2026/05/06/americans-angry-ai-china-book-travel-order-food-hail-rides/)",
+    "[openai.com](https://openai.com/blog/uber-uses-openai)",
+    "[builtinsf.com](https://builtin.com/artificial-intelligence/artificial-intelligence-examples)"
+  ],
+  "design_plan": "rng=42; AIDA checked; hero max-width ~1120px yields 2\u20133 lines; bento grids use grid-auto-flow:dense; label sweep confirms competitors + computer-use cache (>=2 mentions); buttons contrast AA+.",
+  "generated_at": "2026-07-04T16:49:00.726753+00:00",
+  "headline": "Book rides with AI \u2014 compare, coordinate, and confirm with a personal agent",
+  "site_brief": {
+    "audience": "people who want an AI assistant to compare, book, and coordinate rides",
+    "canonical_url": "https://app.getsupers.com/use-cases/book-rides-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Book rides with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant book rides",
+      "AI agent ride booking",
+      "personal assistant Uber Lyft AI",
+      "computer use AI agent transportation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "book-rides-with-ai",
+    "title": "Book rides with AI",
+    "use_case_intent": "show how Super can help request rides, compare ETAs, handle pickup details, and reuse repeated route preferences"
+  },
+  "summary": "An indexable use\u2011case page showing how Super helps people book rides with AI by comparing ETAs, handling pickup details, and reusing repeated routes through a durable computer-use cache. Includes workflow steps, examples, FAQs, competitor context, sibling use\u2011case links, and production\u2011ready front\u2011end files."
+}
